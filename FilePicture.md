@@ -11,7 +11,7 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-![Citadel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3A%25D0%25A6%25D0%25B8%25D1%2582%25D0%25B0%25D0%25B4%25D0%25B5%25D0%25BB%25D1%258C_(Mass_Effect).png&psig=AOvVaw0udled-DqKREKlLVV9bjwB&ust=1586511280491000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDQ6b2H2-gCFQAAAAAdAAAAABAJ)
+![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
@@ -66,7 +66,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 ### Installation
-![Ilos](https://www.google.com/url?sa=i&url=http%3A%2F%2Fme.reactor.cc%2Fpost%2F751743%3F&psig=AOvVaw1MLLwQYoa_2bd-8R4FQseR&ust=1586512042249000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCpw4mI2-gCFQAAAAAdAAAAABAD)
+![Ilos](https://lh3.googleusercontent.com/proxy/DDV8a7sLIWurhJtW8Ego9bq-JlwpfFFoR0tkLJQKKYXEXoWHB6ZUP5jGKD2VcYt3z1QVsgcn6L3GoU1ns8m9fvi3U51GzddA70ZUMHgzHvjl4-i7YOJY9cShBPrfjUhMQhxaJ97WFBp612XmjMXVGypfGkiBarN4PWxhiHkiYYNW7HGbtTpOcyt9GQ4Q23C2noxLTWFXZMcQZhRpQA_qzu2n6_H6CPViBnhSHpEl4JZAPaGCSJqgZg)
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
